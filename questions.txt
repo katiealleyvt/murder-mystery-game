@@ -1,0 +1,11 @@
+Player always initializes conversation with a question except for the Sheriff
+
+Default Questions:
+1.So, where were you on the night of April 21st?
+2. How did you know the victim?
+3. Were you and the victim on good terms?
+4. When did you last see the victim?
+5. Where were you at the time of the murder?
+6. Can you or anyone else corroborate your whereabouts at that time?
+7. Do you think anyone else here would have a reason to kill the victim?
+
